@@ -9,10 +9,7 @@ A Python-based movie recommendation engine using two popular approaches:
 
 ## ✨ Features
 ### 📌 Content-Based Filtering
-- Uses **CountVectorizer** to process:
-  - 🎭 Genres
-  - 🎬 Cast
-  - 📝 Plot keywords
+- Uses **CountVectorizer**
 - Calculates similarity with **Cosine Similarity**
 - Recommends movies similar to a given movie
 
