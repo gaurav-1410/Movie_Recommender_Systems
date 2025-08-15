@@ -46,7 +46,7 @@ User Ratings → User-Item Matrix → k-NN → Cosine Similarity → Top-N Recom
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/gaurav-1410/movie-recommendation-system.git
+git clone https://github.com/gaurav-1410/Movie_Recommender_Systems.git
 cd movie-recommendation-system
 ```
 
@@ -56,5 +56,7 @@ pip install -r requirements.txt
 ---
 
 ## 🎯 Output
+### **User-Based Collaborative Filtering Output**
 ![Output_Collaborative](asset/sample_output_collaborative.png)
+### **Content-Based Filtering Output**
 ![Output_Content](asset/sample_output_content.png)
